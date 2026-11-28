@@ -243,6 +243,8 @@ https://github.com/VicTheDev330/employee-attrition-prediction
 ## 10. Conclusion
 
 This project demonstrates the application of machine learning techniques to an HR analytics problem.
+<img width="1920" height="951" alt="Screenshot (703)" src="https://github.com/user-attachments/assets/fa5c72dc-c376-4181-ae67-c0fad5dce36d" />
+<img width="1920" height="1080" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/dcf9c493-b3b8-40c7-99b4-40cc3b693d44" />
 
 It includes data preprocessing, supervised classification, unsupervised clustering, ensemble learning, hyperparameter optimization, model evaluation, and web application deployment.
 
